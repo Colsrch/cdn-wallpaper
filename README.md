@@ -16,6 +16,5 @@ jsDelivr调用：`https://cdn.jsdelivr.net/gh/htname/cdn-wallpaper/序号.jpg`
 ![random](http://wallpaper.ti1.club/random7.php)
 ![random](http://wallpaper.ti1.club/random8.php)
 ![random](http://wallpaper.ti1.club/random9.php)
-![random](http://wallpaper.ti1.club/random10.php)
 
 持续更新哟 🤣
